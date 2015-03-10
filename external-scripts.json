@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-redmine-notifier",
-  "hubot-shinchoku-dou"
+  "hubot-shinchoku-dou",
+  "hubot-lgtm"
 ]
