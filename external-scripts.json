@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-youtube",
-  "hubot-redmine-notifier"
+  "hubot-redmine-notifier",
+  "hubot-shinchoku-dou"
 ]
